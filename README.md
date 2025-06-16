@@ -25,9 +25,10 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 ├── similarity.pkl # Precomputed similarity matrix
 ├── requirements.txt # Python dependencies
 
-bash
-Copy
-Edit
+## Project Demo screenshot
+![App Screenshot](Project Demo images/project p1.png)
+![App Screenshot](Project Demo images/project p2.png)
+![App Screenshot](Project Demo images/project p3.png)
 
 ## 🛠️ Setup Instructions
 
@@ -38,26 +39,26 @@ To run this project locally:
 ```bash
 git clone https://github.com/pratikbarye/Movie-Recommender-System.git
 cd Movie-Recommender-System
-Install dependencies:
+
+2. **Install dependencies:**
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the app:
+
+3. **Run the app:**
 
 bash
-Copy
-Edit
+
 streamlit run app.py
+
+
 🌐 TMDB API Key Setup
-Create a free account on TMDB.
+1.Create a free account on TMDB.
 
-Navigate to your API section and generate an API key.
+2.Navigate to your API section and generate an API key.
 
-Replace the API key directly in your app.py file where it's required.
+3.Replace the API key directly in your app.py file where it's required.
 
-📷 Screenshots
-<img src="https://i.imgur.com/U9hYzNv.png" width="700"/>
+
 📄 License
 This project is open-source and available under the MIT License.
