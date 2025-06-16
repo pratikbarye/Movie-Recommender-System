@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+![project p2](https://github.com/user-attachments/assets/afc970ed-e366-4eba-a6be-8f299b068660)# Movie-Recommender-System
 
 A content-based movie recommendation system built using Python, Streamlit, and TMDB API. This project suggests similar movies based on user input using cosine similarity and movie metadata.
 
@@ -26,9 +26,12 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 ├── requirements.txt # Python dependencies
 
 ## Project Demo screenshot
-![App Screenshot](images/project p1.png)
-![App Screenshot](images/project p2.png)
-![App Screenshot](images/project p3.png)
+![project p1](https://github.com/user-attachments/assets/883948fe-f4d3-43f7-aff0-b52d68a1f7b7)
+
+![project p2](https://github.com/user-attachments/assets/edd8ee2c-6bf6-4ebd-8b1c-a792c2b2d667)
+
+![Uploading project p3.png…]()
+
 
 
 ## 🛠️ Setup Instructions
