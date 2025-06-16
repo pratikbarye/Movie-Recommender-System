@@ -26,9 +26,9 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 ├── requirements.txt # Python dependencies
 
 ## Project Demo screenshot
-![App Screenshot](Project Demo images/project p1.png)
-![App Screenshot](Project Demo images/project p2.png)
-![App Screenshot](Project Demo images/project p3.png)
+![App Screenshot](images/project p1.png)
+![App Screenshot](images/project p2.png)
+![App Screenshot](images/project p3.png)
 
 ## 🛠️ Setup Instructions
 
