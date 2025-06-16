@@ -30,6 +30,7 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 ![App Screenshot](images/project p2.png)
 ![App Screenshot](images/project p3.png)
 
+
 ## 🛠️ Setup Instructions
 
 To run this project locally:
