@@ -11,12 +11,6 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 - 🖼️ Movie posters fetched using TMDB API
 - 💡 Simple and user-friendly Streamlit interface
 
-## 📺 Video Reference
-
-This project is built by following the tutorial from the YouTube channel *CodeWithHarry*:
-
-[Watch Tutorial on YouTube](https://youtu.be/1xtrIEwY_zY?si=LrLzeQPkRGTUvtl_)
-
 ## 🚀 Tech Stack
 
 - **Frontend/UI:** Streamlit
