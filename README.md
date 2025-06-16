@@ -30,7 +30,8 @@ A content-based movie recommendation system built using Python, Streamlit, and T
 
 ![project p2](https://github.com/user-attachments/assets/edd8ee2c-6bf6-4ebd-8b1c-a792c2b2d667)
 
-![project p3](https://github.com/user-attachments/assets/a6bd1c09-993d-4705-bbde-06abc59ff865)
+![project P3](https://github.com/user-attachments/assets/8ebd06ea-9e98-4a9c-b837-07dfd77f24dd)
+
 
 
 
